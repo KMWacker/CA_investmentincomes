@@ -3,7 +3,7 @@ set more off
 version 18.5
 set matsize 5000
 
-global path C:\Users\KMWacker\ownCloud\Documents\Projects\FactorpaymentsIIP\Data_Analysis
+global path C:\Users\...\Projects\FactorpaymentsIIP\Data_Analysis
 
 cd $path
 
@@ -15,3 +15,4 @@ cd $path
 ****************************************************
 
 do 1_CAIIB_datacr.do
+
