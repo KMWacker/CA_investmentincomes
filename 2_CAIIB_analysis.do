@@ -1,4 +1,4 @@
-global path C:\Users\...
+global path C:\Users\...\Projects\FactorpaymentsIIP\Data_Analysis
 cd $path
 
 **************
